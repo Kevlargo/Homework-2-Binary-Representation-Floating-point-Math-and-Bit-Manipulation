@@ -22,3 +22,8 @@ The file will take 2 inputs/arguments for the loop bound and loop counter
 ./hw2 loop bound loop counter 
 
 example : ./hw2 1.6 3
+
+bugs: 
+-Only handles certain values like postive values.
+- program will crash if other values that are not numbers are entered
+- 
